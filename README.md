@@ -5,13 +5,12 @@ This repository contains verified certificates I’ve earned in programming, clo
 | Certification | Issuing Authority | Date | View |
 |---------------|-------------------|------|------|
 | Programming Essentials in C | Cisco NetAcad | March 2024 | [View PDF](./Cisco_C_Programming.pdf) |
-| Programming Essentials in CPP | Cisco NetAcad | July 2024 | [View PDF](./Cisco_CPP_Programming.pdf) |
 | HTML & CSS Web Foundations | Certiport | August 2024 | [View PDF](./HTML_CSS_Certification.pdf) |
 | Programming Essentials in Python | Cisco NetAcad | October 2024 | [View PDF](./Cisco_Python_Essentials.pdf) |
 | Operating Systems | Cisco NetAcad | January 2025 | [View PDF](./Cisco_OperatingSystem.pdf) |
 | SQL Basic | HackerRank | February 2025 | [View PDF](./HackerRank_SQL_Basic.pdf) |
 | SQL Intermediate | HackerRank | February 2025 | [View PDF](./HackerRank_SQL_Intermediate.pdf) |
-| Problem Solving Basic | HackerRank | March 2025 | [View PDF](./HackerRank_problem_solving_basic.pdf) |
+
 | Java Foundations Associate | Oracle | May 2025 | [View PDF](./Oracle_Java_Foundations_Associate_Certificate.pdf) |
 | RedHat Certified System Administrator | RedHat | June 2025 | [View PDF](./RedHat_Certified_System_Administrator.pdf) |
 
